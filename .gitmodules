@@ -1,0 +1,12 @@
+[submodule "AuthServiceSDK"]
+	path = AuthServiceSDK
+	url = git@github.com:Daniel3579/auth-service-sdk.git
+[submodule "AuthService"]
+	path = AuthService
+	url = git@github.com:Daniel3579/auth-service.git
+[submodule "UserServiceSDK"]
+	path = UserServiceSDK
+	url = git@github.com:Daniel3579/user-service-sdk.git
+[submodule "UserService"]
+	path = UserService
+	url = git@github.com:Daniel3579/user-service.git

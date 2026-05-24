@@ -1,0 +1,14 @@
+*/bin/
+*/dist/
+*/coverage.out
+*.log
+*.DS_Store
+*.env
+*.docx
+*.txt
+*.key
+data/
+*.pptx
+screenshots
+ER.png
+*.sql
