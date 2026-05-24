@@ -5,6 +5,7 @@
 *.DS_Store
 *.env
 *.docx
+*.pdf
 *.txt
 *.key
 data/
