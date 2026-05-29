@@ -67,3 +67,6 @@
 [submodule "Services/UserTagService"]
 	path = Services/UserTagService
 	url = git@github.com:Daniel3579/user-tag-service.git
+[submodule "Frontend"]
+	path = Frontend
+	url = git@github.com:Peacemaker-DB/frontend-coursework.git
