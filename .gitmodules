@@ -59,3 +59,11 @@
 [submodule "Services/UserService"]
 	path = Services/UserService
 	url = git@github.com:Daniel3579/user-service.git
+
+[submodule "Services/UserPhotoService"]
+	path = Services/UserPhotoService
+	url = git@github.com:Daniel3579/user-photo-service.git
+	
+[submodule "Services/UserTagService"]
+	path = Services/UserTagService
+	url = git@github.com:Daniel3579/user-tag-service.git
