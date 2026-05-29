@@ -1,12 +1,61 @@
-[submodule "AuthServiceSDK"]
-	path = AuthServiceSDK
+[submodule "SDKs/AuthServiceSDK"]
+	path = SDKs/AuthServiceSDK
 	url = git@github.com:Daniel3579/auth-service-sdk.git
-[submodule "AuthService"]
-	path = AuthService
-	url = git@github.com:Daniel3579/auth-service.git
-[submodule "UserServiceSDK"]
-	path = UserServiceSDK
+
+[submodule "SDKs/LocationServiceSDK"]
+	path = SDKs/LocationServiceSDK
+	url = git@github.com:Daniel3579/location-service-sdk.git
+
+[submodule "SDKs/PhotoServiceSDK"]
+	path = SDKs/PhotoServiceSDK
+	url = git@github.com:Daniel3579/photo-service-sdk.git
+
+[submodule "SDKs/SearchServiceSDK"]
+	path = SDKs/SearchServiceSDK
+	url = git@github.com:Daniel3579/search-service-sdk.git
+
+[submodule "SDKs/TagServiceSDK"]
+	path = SDKs/TagServiceSDK
+	url = git@github.com:Daniel3579/tag-service-sdk.git
+
+[submodule "SDKs/TraitServiceSDK"]
+	path = SDKs/TraitServiceSDK
+	url = git@github.com:Daniel3579/trait-service-sdk.git
+
+[submodule "SDKs/UserPhotoServiceSDK"]
+	path = SDKs/UserPhotoServiceSDK
+	url = git@github.com:Daniel3579/user-photo-service-sdk.git
+
+[submodule "SDKs/UserServiceSDK"]
+	path = SDKs/UserServiceSDK
 	url = git@github.com:Daniel3579/user-service-sdk.git
-[submodule "UserService"]
-	path = UserService
+
+[submodule "SDKs/UserTagServiceSDK"]
+	path = SDKs/UserTagServiceSDK
+	url = git@github.com:Daniel3579/user-tag-service-sdk.git
+
+
+
+[submodule "Services/AuthService"]
+	path = Services/AuthService
+	url = git@github.com:Daniel3579/auth-service.git
+
+[submodule "Services/LocationService"]
+	path = Services/LocationService
+	url = git@github.com:Daniel3579/location-service.git
+
+[submodule "Services/PhotoService"]
+	path = Services/PhotoService
+	url = git@github.com:Daniel3579/photo-service.git
+
+[submodule "Services/TagService"]
+	path = Services/TagService
+	url = git@github.com:Daniel3579/tag-service.git
+
+[submodule "Services/TraitService"]
+	path = Services/TraitService
+	url = git@github.com:Daniel3579/trait-service.git
+
+[submodule "Services/UserService"]
+	path = Services/UserService
 	url = git@github.com:Daniel3579/user-service.git
