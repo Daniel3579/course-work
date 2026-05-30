@@ -48,6 +48,10 @@
 	path = Services/PhotoService
 	url = git@github.com:Daniel3579/photo-service.git
 
+[submodule "Services/SearchService"]
+	path = Services/SearchService
+	url = git@github.com:Daniel3579/search-service.git
+
 [submodule "Services/TagService"]
 	path = Services/TagService
 	url = git@github.com:Daniel3579/tag-service.git
@@ -67,6 +71,9 @@
 [submodule "Services/UserTagService"]
 	path = Services/UserTagService
 	url = git@github.com:Daniel3579/user-tag-service.git
+
+
+
 [submodule "Frontend"]
 	path = Frontend
 	url = git@github.com:Peacemaker-DB/frontend-coursework.git
